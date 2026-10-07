@@ -9,7 +9,7 @@
 <pre>⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛🟥
-🟦🎾⬛⬛⬛⬛⬛⬛⬛⬛🟥
+🟦⬛🎾⬛⬛⬛⬛⬛⬛⬛🟥
 🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛🟥
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</pre>
@@ -18,7 +18,7 @@
 
 Rally: 0 · Best rally: 0 by nobody yet · All-time wins: Internet 0, Bot 0
 
-_New game. Make a move!_
+_Azaxek moved hold._
 
 |  | [⬆️ Move up](https://github.com/Azaxek/Azaxek/issues/new?title=tennis:+up&body=Just+press+%22Submit+new+issue%22.+The+board+updates+in+about+a+minute.) |  |
 |---|---|---|
