@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord_members-1%2C100%2B-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord members" />
-  <img src="https://img.shields.io/badge/Vulns_reported-120%2B-d73a49?style=flat-square" alt="Vulnerabilities reported" />
-  <img src="https://img.shields.io/badge/AP_Chem_questions-800%2B-2ea44f?style=flat-square" alt="AP Chem questions" />
-  <img src="https://img.shields.io/badge/Wait_time_cut-43%25-f9a825?style=flat-square" alt="Wait time cut" />
-  <img src="https://img.shields.io/badge/USAPhO-top_440_of_7%2C000-6f42c1?style=flat-square" alt="USAPhO" />
+  <img src="https://img.shields.io/badge/Olympiads_Democratized-1%2C100%2B_Discord_members-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Olympiads Democratized, 1,100+ Discord members" />
+  <img src="https://img.shields.io/badge/USA_Physics_Olympiad-qualifier%2C_top_440_of_7%2C000-6f42c1?style=flat-square" alt="USA Physics Olympiad qualifier, top 440 of 7,000" />
+  <img src="https://img.shields.io/badge/Security_research-120%2B_vulnerabilities_reported_in_50_repos-d73a49?style=flat-square" alt="120+ vulnerabilities reported across 50 repos" />
+  <img src="https://img.shields.io/badge/Flux_traffic_AI-43%25_shorter_waits-f9a825?style=flat-square" alt="Flux traffic AI, 43% shorter waits" />
+  <img src="https://img.shields.io/badge/AP_Chem_database-800%2B_practice_questions-2ea44f?style=flat-square" alt="AP Chem database, 800+ practice questions" />
 </p>
 
 ### About me
