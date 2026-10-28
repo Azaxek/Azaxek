@@ -59,11 +59,6 @@ const arjan = {
 | [**Beefing vs. Collaboration**](https://arxiv.org/pdf/2506.05373) | Game theory preprint with 3+ citations: collaboration beats beefing for creators |
 | **Vulnerability research** | SAST scans of trending GitHub repos, 120+ findings across 50 repos reported to maintainers |
 
-### Play my games
-
-- **[Shadow Arena](https://azaxek.github.io/Azaxek/arena.html)**: a ninja arena fight against bots, with swords, shurikens, a grappling rope and wall jumps (desktop, mouse + keyboard)
-- **[Tennis vs the Bot](https://azaxek.github.io/Azaxek/play.html)**: a quick one-minute match, mouse or touch
-
 <p align="center"><em>Always happy to talk olympiads, open source, or security. Say hi through the links above.</em></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
