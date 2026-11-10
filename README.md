@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arjan%20Khadka&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Olympiad%20founder%20%C2%B7%20Open-source%20builder%20%C2%B7%20Paris%2C%20TX&descAlignY=60&descSize=18" width="100%" alt="Arjan Khadka" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arjan%20Khadka&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Olympiad%20Competitor%20%C2%B7%20Open-source%20builder%20%C2%B7%20Paris%2C%20TX&descAlignY=60&descSize=18" width="100%" alt="Arjan Khadka" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=USA+Physics+Olympiad+Qualifier;Founder+of+a+1%2C100%2B+member+olympiad+community;Shipping+free+open-source+alternatives;Reported+120%2B+vulnerabilities+to+maintainers;Trained+a+traffic+light+AI+that+cuts+waits+43%25" alt="Typing intro" />
